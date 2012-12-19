@@ -1,0 +1,4 @@
+htmlonly
+========
+
+HTML only base
